@@ -53,14 +53,14 @@ For instance, startups operating in a technology field, such as AI and Health, m
 
 To illustrate the multiverse approach, this project uses multiple data sources, including company, equity investment and patent data. More specifically, the data includes:
 
-Company information such as company name,  headquarters’ location and founders/ directors; 
-The investment secured and the timing of those investments; 
-Company acquisitions; and 
-Their products and IP protection activities through patents. 
+- Company information such as company name,  headquarters’ location and founders/ directors; 
+- The investment secured and the timing of those investments; 
+- Company acquisitions; and 
+- Their products and IP protection activities through patents. 
 
 The above data was acquired for a single sector, namely health technology. 
 
-The data was then ingested into TigeGraph, using a bespoke data schema designed to model the main entities in the sample data, i.e., organization, funding, acquirer, patent.
+The data was then ingested into TigerGraph, using a bespoke data schema designed to model the main entities in the sample data, i.e., organization, funding, acquirer, patent.
 
 Graph queries using GSQL were written to retrieve specific patterns from the data, including:
 Companies with investment from the time period available in the sample dataset..
