@@ -10,10 +10,7 @@ Global venture investment totaled $363 billion in 2021; source: Crunchbase [1].
 
 These companies are hoping to create innovation breakthroughs that can benefit society as well as being commercially viable. 
 
-The astronomical level of investment and the unpredictability for business growth, makes innovation a very risky and cohjk|
-
-
-o6rewqstly endeavour though.  It has been reported that up to 75 percent of venture-backed startups fail and never return cash to their investors; source: Wall Street Journal [2].
+The astronomical level of investment and the unpredictability for business growth, makes innovation a very risky and costly endeavour.  It has been reported that up to 75 percent of venture-backed startups fail and never return cash to their investors; source: Wall Street Journal [2].
 
 The rate of failure and financial losses has been managed using a 'Blockbuster' and 'Unicorn' paradigm. This paradigm is characterised by a small fraction of startups succeeding at climbing the growth ladder, while the majority of companies fail at realising market impact and financial gains. 
  
@@ -93,9 +90,9 @@ For instance, patent citations from previous inventions can be considered a prox
 
 
 
-Sources:
-[1] https://news.crunchbase.com/news/global-vc-funding-unicorns-2021-monthly-recap/
+## Sources:
+- [1] https://news.crunchbase.com/news/global-vc-funding-unicorns-2021-monthly-recap/
 and  https://news.crunchbase.com/news/europe-vc-funding-unicorns-2021-monthly-recap/
-[2] https://www.wsj.com/articles/risk-rewards-of-angel-investing-11635957307?reflink=desktopwebshare_permalink  
+- [2] https://www.wsj.com/articles/risk-rewards-of-angel-investing-11635957307?reflink=desktopwebshare_permalink  
 
   
