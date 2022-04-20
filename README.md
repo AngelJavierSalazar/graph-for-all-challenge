@@ -87,7 +87,7 @@ Patent data was procured directly from national patent offices such as USPTO, th
  
  ## What's next for Navigating the multiverse of technological innovation
 
-I would like to open up the project, inviting the opne source community, to procure additional sources of data covering a much larger number of companies, and extend the initial analysis and visualizations to be able to paint a more complete and reliable picture of technological innovation networks. 
+I would like to open up the project, inviting the open data community, to procure additional sources of data covering a much larger number of companies, and extend the initial analysis and visualizations to be able to paint a more complete and reliable picture of technological innovation networks. 
 
 For instance, patent citations from previous inventions can be considered a proxy measure of technology 'closenesses' (i.e., centrality and neighbour analysis), as well as potentially competitive intentions (e.g., wanting to concentrate competition in one narrow tech area).
 
