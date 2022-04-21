@@ -1,4 +1,4 @@
-# Graph-for-All-Challenge
+
 ## Project: Navigating the multiverse of technological innovation
 
 
