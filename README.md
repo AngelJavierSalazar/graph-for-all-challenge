@@ -75,9 +75,7 @@ Community detection algorithm using both (a) investment and (b) patent.
 
 A challenge that affects any disruptive analytics project is accessing the right type of data, as it can be costly to acquire if not readily publicly available in a combined format.
 
-Given the limited financial resources to purchase separate commercial databases at this proof-of-concept stage, a conscious decision was to procure a minimum sample dataset that spanned the various domains of interest of the multiverse of tech startups. That is, not all startups that raise investment apply for a patent, and vice versa. 
-
-Crunchbase, being one of the leading providers of startup data, was a first choice for procuring company and investment data. Historical ‘dump’ dataset was used as this can be used free of charge upon request.
+Given the limited financial resources to purchase separate commercial databases at this proof-of-concept stage, a conscious decision was to procure a minimum sample dataset that spanned the various domains of interest of the multiverse of tech startups. That is, not all startups that raise investment apply for a patent, and vice versa.  
 
 Patent data was procured directly from national patent offices such as USPTO, that offers downloading patent data in bulk or using their search dashboard.
 
